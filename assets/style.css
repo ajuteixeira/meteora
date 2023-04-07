@@ -1,3 +1,15 @@
+.color-green {
+  color: #DAFF01;
+}
+
+.color-lilac {
+  background-color: #9353FF;
+}
+
+.color-lilac:hover {
+  background-color: #a06cfa;
+}
+
 .facilities {
   width: 325px;
 }
