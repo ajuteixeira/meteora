@@ -10,10 +10,17 @@
   background-color: #a06cfa;
 }
 
-.facilities {
+.small-text {
+  font-size: 13px;
+}
+
+.facilities,
+.news {
   width: 325px;
 }
 
-.small-text {
-  font-size: 13px;
+@media(min-width: 768px) {
+  .news {
+    width: 696px;
+  }
 }
